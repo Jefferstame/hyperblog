@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: blueviolet;
+    background-color: greenyellow;
     font-family: 'Courier New', Courier, monospace;
 }
 .titulo{
@@ -12,4 +12,12 @@ body {
 }
 .parrafo{
     text-align: left;
+}
+#container{
+    width: 70%;
+    padding: 1em 0.5;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+
 }
